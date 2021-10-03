@@ -1,0 +1,13 @@
+.picture-bar{
+    display: flex;
+    align-items: center;
+    height: 40vh;
+    justify-content: center;
+}
+
+.data-bar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+}
